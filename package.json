@@ -1,10 +1,10 @@
 {
     "name": "@console.lu/console.lu",
-    "version": "0.0.2",
-    "description":"makes console.log less boring",
-    "repository":"https://github.com/LuYeZhan/consolelu",
-    "main":"index.js",
-    "keywords":[
+    "version": "0.0.3",
+    "description": "makes console.log less boring",
+    "repository": "https://github.com/LuYeZhan/consolelu",
+    "main": "index.js",
+    "keywords": [
         "console.lu",
         "consolelu",
         "package",

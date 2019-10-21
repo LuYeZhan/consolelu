@@ -1,6 +1,6 @@
 {
     "name": "@console.lu/console.lu",
-    "version": "0.0.3",
+    "version": "0.0.41",
     "description": "makes console.log less boring",
     "repository": "https://github.com/LuYeZhan/consolelu",
     "main": "index.js",

@@ -1,6 +1,7 @@
-module.exports = const lu = (message) => {
-  const styles = 
-  ['background: black'
+module.exports = {
+  const lu = (message) => {
+    const styles = 
+    ['background: black'
           , 'border: 1px solid #3E0E02'
           , 'font-size: 18px'
           , 'color: white'
@@ -10,6 +11,9 @@ module.exports = const lu = (message) => {
           , 'line-height: 40px'
           , 'text-align: center'
           , 'font-weight: bold'
-          ].join(';');
-  console.log(`%c ${message}`, styles);
+          ].join(';')
+    console.log(`%c ${message}`, styles)
+  }
 }
+
+
